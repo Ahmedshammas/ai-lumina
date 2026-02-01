@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI - Academic Companion",
+  "description": "An adaptive learning platform that generates syllabus-specific MCQs, identifies knowledge gaps, and provides context-aware tutoring.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
